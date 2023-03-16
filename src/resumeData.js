@@ -1,5 +1,5 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+    "imagebaseurl":"https://Wathsala970.github.io/",
     "name": "Wathsala Suriyanpola",
     "role": "Frontend Developer and Data Scientist",
     "linkedinId":"https://www.linkedin.com/in/wathsala-suriyanpola-0ab004239/",
@@ -24,7 +24,7 @@ let resumeData = {
       ],
     "aboutme":"I am currently a third year student at The University of Sri Jayewardenepura and pursuing my BSc (Hons) Information Technology from here. I'm currently diving deep into machine learning.  Meanwhile, I am studying Python, Java, HTML, CSS, Java Script etc. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
     "address":"Sri Lanka",
-    // "website":"https://rbhatia46.github.io",
+    // "website":"https://Wathsala970.github.io",
     "education":[
       {
         "UniversityName":"University of Sri Jayewardenepura",
