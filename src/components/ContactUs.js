@@ -17,6 +17,9 @@ export default class ContactUs extends Component {
                 <h4>Linked in :
                   {resumeData.linkedinId}
                 </h4>
+                <h4>Email : wathsalaksuriyanpola2000@gmail.com</h4>
+                <h4>Mobile : 0779279970</h4>
+                <h4><a href='https://www.facebook.com/sanudi.nehansa.9?mibextid=ZbWKwL' >Facebook </a></h4>
               </div>
             </aside>
           </div>

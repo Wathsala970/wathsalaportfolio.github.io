@@ -8,7 +8,7 @@ export default class About extends Component {
 
             <div className="three columns">
 
-               <img className="profile-pic"  src="images/profilepic.jpg" alt="" />
+               <img className="profile-pic"  src="images/profilePic.jpeg" alt="" />
 
             </div>
 
@@ -34,7 +34,10 @@ export default class About extends Component {
                     </span>
                     <br></br>
                     <span>{resumeData.website}</span>
+                    wathsalaksuriyanpola2000@gmail.com<br></br>
+                    o779279970
        					   </p>
+                        
                   </div>
                </div>
             </div>

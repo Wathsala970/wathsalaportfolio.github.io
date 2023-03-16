@@ -8,7 +8,7 @@ export default  class Resume extends Component {
          <div className="row education">
 
             <div className="three columns header-col">
-               <h1><span>Education</span></h1>
+               <h1><span>Qualification</span></h1>
             </div>
 
             <div className="nine columns main-col">
@@ -33,10 +33,15 @@ export default  class Resume extends Component {
          </div>
         <div className="row work">
             <div className="three columns header-col">
-               <h1><span>Work</span></h1>
+               <h1><span>Projects</span></h1>
             </div>
-
-            <div className="nine columns main-col">
+            <ul>
+              <li>
+                Food Restaurant webpage<br></br>
+                <a href='https://github.com/Wathsala970/FoodRestaurantWebPage.git'>link</a>
+              </li>
+            </ul>
+            {/* <div className="nine columns main-col">
               {
                 resumeData.work && resumeData.work.map((item) => {
                   return(
@@ -55,8 +60,8 @@ export default  class Resume extends Component {
 
                   )
                 })
-              }
-            </div> 
+              } */}
+            {/* </div>  */}
          </div>
 
 
